@@ -37,7 +37,7 @@ Building AI agents, contributing to open source, and helping developers harness 
 
 ## Writing & Projects
 
-- 📝 [Blog](https://bishnu.dev) - Technical writing on AI agents, software engineering, and open source
+- 📝 [Blog](https://tinyurl.com/25xxply3) - Technical writing on AI agents, software engineering, and open source
 - 💼 [LinkedIn](https://www.linkedin.com/in/bishnubista/)
 - 🐦 [Twitter/X](https://x.com/bishnubista_)
 - 🎟️ [Luma Events](https://luma.com/user/bbista) - Join my AI workshops & community events
