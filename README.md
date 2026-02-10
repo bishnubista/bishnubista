@@ -31,11 +31,9 @@ Building AI agents, contributing to open source, and helping developers harness 
 | Project | Description |
 |---------|-------------|
 | [safe-mcp](https://github.com/SAFE-MCP/safe-mcp) | MITRE ATT&CK-style security framework for Model Context Protocol — core team member |
-| [vibe-logger](https://github.com/bishnubista/vibe-logger) | MCP server that turns Google Docs into persistent memory for AI coding sessions |
-| [dev-glass](https://github.com/bishnubista/dev-glass) | AI-powered debugging — captures browser context and sends to AI agents via MCP |
+| [plangate](https://github.com/bishnubista/plangate) | PLAN.md-driven development with quality gates — a Claude Code plugin |
 | [cc-statusline](https://github.com/bishnubista/cc-statusline) | Clean Claude Code statusline displaying model, directory, git branch, and output style |
 | [safe-mcp-scanner](https://github.com/bishnubista/safe-mcp-scanner) | Security scanner for MCP server definitions |
-| [git-summarizer](https://github.com/bishnubista/git-summarizer) | AI-powered dashboard for monitoring GitHub starred repos with PR summaries and impact analysis |
 | [cursor-workshop](https://github.com/bishnubista/cursor-workshop) | Workshop materials for AI-assisted coding with Cursor |
 
 ---
