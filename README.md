@@ -15,7 +15,7 @@ Building AI agents, contributing to open source, and helping developers harness 
 - Content generation agents with sequential pipelines where each approved output becomes context for the next
 
 **MCP Security & Tooling**
-- Collaborator on [SAFE-MCP]([https://github.com/SAFE-MCP/safe-mcp](https://github.com/safe-agentic-framework/safe-mcp) — security framework documenting 80+ attack techniques for Model Context Protocol
+- Collaborator on [SAFE-MCP](https://github.com/safe-agentic-framework/safe-mcp) — security framework documenting 80+ attack techniques for Model Context Protocol
 - Built MCP security scanners using hybrid regex + LLM analysis with SARIF output
 - Created developer tools for AI-assisted debugging, session logging, and workflow orchestration
 
