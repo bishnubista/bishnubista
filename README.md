@@ -36,7 +36,7 @@ Accepted at the **Conference on Language Modeling (COLM) 2026**.
 
 ConformalGuard is a model-agnostic calibration layer for choosing pre-deployment action thresholds with finite-sample false-positive control under exchangeability. We evaluated it with fine-tuned BERT, Claude Sonnet 4, and GPT-4o on public email corpora, and documented the recall and robustness trade-offs exposed by coarse zero-shot LM scores.
 
-[Read the paper (PDF)](papers/conformalguard-colm-2026.pdf) · [OpenReview record](https://openreview.net/forum?id=bPUdqX3pCF&noteId=bPUdqX3pCF)
+[Code & reproducibility](https://github.com/bishnubista/conformalguard-colm-2026) · [Read the paper (PDF)](papers/conformalguard-colm-2026.pdf) · [OpenReview record](https://openreview.net/forum?id=bPUdqX3pCF&noteId=bPUdqX3pCF)
 
 ---
 
@@ -44,6 +44,7 @@ ConformalGuard is a model-agnostic calibration layer for choosing pre-deployment
 
 | Project | Description |
 |---------|-------------|
+| [conformalguard-colm-2026](https://github.com/bishnubista/conformalguard-colm-2026) | Audited camera-ready artifact and reproducibility materials for the accepted COLM 2026 paper |
 | [safe-mcp](https://github.com/SAFE-MCP/safe-mcp) | MITRE ATT&CK-style security framework for Model Context Protocol — core team member |
 | [plangate](https://github.com/bishnubista/plangate) | PLAN.md-driven development with quality gates — a Claude Code plugin |
 | [cc-statusline](https://github.com/bishnubista/cc-statusline) | Clean Claude Code statusline displaying model, directory, git branch, and output style |
