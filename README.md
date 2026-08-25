@@ -9,9 +9,10 @@ I am especially interested in startup conversations where technical leadership, 
 ## At a Glance
 
 - **Technical leadership:** architecture, 0→1 product engineering, platform design, full-stack delivery, release operations, and open-source maintenance
-- **AI systems:** coding agents, multi-agent workflows, LLM evaluation and red teaming, human-approval boundaries, retrieval, and local-first AI
+- **AI systems:** coding agents, LangGraph and multi-agent workflows, LLM evaluation and red teaming, human-approval boundaries, retrieval, and local-first AI
+- **Real-time AI:** voice pipelines with Pipecat, Deepgram, WebRTC/WebSockets, streaming interfaces, and structured function calling
 - **Security:** Model Context Protocol (MCP), threat modeling, detection engineering, least privilege, auditability, and privacy-preserving system design
-- **Core stack:** Python, TypeScript, React, FastAPI, Hono, Cloudflare Workers/D1/R2, SQLite, Swift/SwiftUI, and agent-development tooling
+- **Core stack:** Python, TypeScript, LangGraph, React, FastAPI, Hono, Cloudflare Workers/D1/R2, SQLite, Swift/SwiftUI, and agent-development tooling
 - **Based in:** San Francisco Bay Area
 
 ---
