@@ -1,8 +1,8 @@
 # Hey, I'm Bishnu Bista
 
-**Full-Stack Engineer | AI Agent Builder | Community Organizer**
+**Full-Stack Engineer | AI Agent Builder | Applied AI Researcher | Community Organizer**
 
-Building AI agents, contributing to open source, and helping developers harness the power of agentic coding. Most of my work is built with Claude Code and Codex, where I'm discovering patterns for agentic development — multi-agent orchestration, custom workflow agents, and knowledge systems that compound across projects. When I'm not coding, you'll find me running marathons or training for triathlons.
+I build production AI systems and study how to make model-driven decisions more reliable. My recent work includes **ConformalGuard**, accepted at COLM 2026, which applies conformal calibration to false-positive-controlled action gating for language-model classifiers. I also contribute to open source and help developers harness agentic coding through multi-agent orchestration, custom workflow agents, and knowledge systems that compound across projects. When I'm not coding, you'll find me running marathons or training for triathlons.
 
 ---
 
@@ -23,6 +23,20 @@ Building AI agents, contributing to open source, and helping developers harness 
 - Production apps with Next.js 15+, React 19, TypeScript, Supabase, and Vercel
 - Python backends with FastAPI, Clean Architecture, and uv package manager
 - iOS/watchOS apps with SwiftUI, SwiftData, and HealthKit — shipped to App Store
+
+---
+
+## Research
+
+### ConformalGuard
+
+**[ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://openreview.net/forum?id=bPUdqX3pCF&noteId=bPUdqX3pCF)**
+
+Accepted at the **Conference on Language Modeling (COLM) 2026**.
+
+ConformalGuard is a model-agnostic calibration layer for choosing pre-deployment action thresholds with finite-sample false-positive control under exchangeability. We evaluated it with fine-tuned BERT, Claude Sonnet 4, and GPT-4o on public email corpora, and documented the recall and robustness trade-offs exposed by coarse zero-shot LM scores.
+
+[Read the paper (PDF)](papers/conformalguard-colm-2026.pdf) · [OpenReview record](https://openreview.net/forum?id=bPUdqX3pCF&noteId=bPUdqX3pCF)
 
 ---
 
