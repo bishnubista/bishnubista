@@ -2,7 +2,7 @@
 
 **Hands-on engineering leader building dependable AI-agent systems, evaluation infrastructure, and security tooling.**
 
-I turn ambiguous ideas into tested, operable products—from architecture and agent workflows to full-stack implementation, security boundaries, release engineering, and contributor experience. I maintain [SAF-MCP](https://github.com/secure-agentic-framework/saf-mcp), contribute to [Promptfoo](https://github.com/promptfoo/promptfoo), and co-authored **ConformalGuard**, accepted at COLM 2026. Previously at American Express and Wells Fargo.
+I turn ambiguous ideas into tested, operable products—from architecture and agent workflows to full-stack implementation, security boundaries, release engineering, and contributor experience. I maintain [SAF-MCP](https://github.com/secure-agentic-framework/saf-mcp), contribute to [Promptfoo](https://github.com/promptfoo/promptfoo), and am the lead author of **ConformalGuard**, published at COLM 2026. Previously at American Express and Wells Fargo.
 
 I am especially interested in startup conversations where technical leadership, product ownership, and hands-on founding-engineer execution matter.
 
@@ -46,7 +46,7 @@ Additional upstream work includes a benchmark-backed [audit-log read-replica fix
 
 ### [ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://arxiv.org/abs/2610.14365)
 
-Accepted at the **Conference on Language Modeling (COLM) 2026**.
+Lead author. Published at the **Conference on Language Modeling (COLM) 2026**.
 
 ConformalGuard is a model-agnostic calibration layer for choosing pre-deployment action thresholds with finite-sample false-positive control under exchangeability. We evaluated it with fine-tuned BERT, Claude Sonnet 4, and GPT-4o on public email corpora, exposing the recall and robustness trade-offs of coarse zero-shot LM scores.
 
