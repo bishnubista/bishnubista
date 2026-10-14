@@ -44,13 +44,13 @@ Additional upstream work includes a benchmark-backed [audit-log read-replica fix
 
 ## Research
 
-### [ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://openreview.net/forum?id=bPUdqX3pCF&noteId=bPUdqX3pCF)
+### [ConformalGuard: False-Positive-Controlled Action Gating for LM Classifiers](https://arxiv.org/abs/2610.14365)
 
 Accepted at the **Conference on Language Modeling (COLM) 2026**.
 
 ConformalGuard is a model-agnostic calibration layer for choosing pre-deployment action thresholds with finite-sample false-positive control under exchangeability. We evaluated it with fine-tuned BERT, Claude Sonnet 4, and GPT-4o on public email corpora, exposing the recall and robustness trade-offs of coarse zero-shot LM scores.
 
-[Code and reproducibility](https://github.com/bishnubista/conformalguard-colm-2026) · [Paper PDF](papers/conformalguard-colm-2026.pdf) · [OpenReview record](https://openreview.net/forum?id=bPUdqX3pCF&noteId=bPUdqX3pCF)
+[arXiv paper](https://arxiv.org/abs/2610.14365) · [Code and reproducibility](https://github.com/bishnubista/conformalguard-colm-2026) · [Paper PDF](papers/conformalguard-colm-2026.pdf) · [OpenReview record](https://openreview.net/forum?id=bPUdqX3pCF&noteId=bPUdqX3pCF)
 
 ---
 
